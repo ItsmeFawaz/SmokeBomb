@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="SmokeBomb:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SmokeBomb_jar</output-path>
+    <root id="archive" name="SmokeBomb.jar">
+      <element id="module-output" name="SmokeBomb" />
+    </root>
+  </artifact>
+</component>

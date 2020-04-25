@@ -1,0 +1,8 @@
+name: SmokeBomb
+main: me.bottleofglass.SmokeBomb.Main
+version: "1.0"
+depend:
+  - ProtocolLib
+commands:
+  smokebomb:
+    usage: "/smokebomb <playername"
